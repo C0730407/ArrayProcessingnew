@@ -58,3 +58,6 @@ namespace ConsoleApp1
         }
     }
 }
+
+
+sTRING sTRING=Convert.tO
